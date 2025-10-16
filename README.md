@@ -69,6 +69,7 @@ Independent
 - Size
 - Previous purchase
 - Frequency of purchase
+
 Dependent
 - Purchase Amount
 
