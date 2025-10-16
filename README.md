@@ -1,7 +1,6 @@
 # Carrie-s-Fashion-Store-Men-and-Women-s-Fashion-Hub-Analysis-Report-for-Year-2019
 This repository is a project linked to the Clothing Industry that shows customer purchasing behaviour and patterns. 
 
-Carrie’s Fashion Store: Men and Women’s Fashion Hub Analysis Report for Year 2019
 
 <img width="800" height="420" alt="CARRIE'S FASHION DASHBOARD" src="https://github.com/user-attachments/assets/6b8cea10-9031-4cb1-81d3-fb9029083e81" />
 
