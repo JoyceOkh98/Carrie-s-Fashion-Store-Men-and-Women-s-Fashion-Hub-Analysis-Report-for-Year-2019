@@ -70,10 +70,9 @@ Independent
 - Previous purchase
 - Frequency of purchase
 Dependent
-  - Purchase Amount
+- Purchase Amount
 
-
-Industry context and Stakeholders
+Industry context and Stakeholders:
 This project is linked to the Clothing/Fashion Industry and its stakeholders are the Store owner and Sales persons.
 
 Potential-Analysis Questions:
