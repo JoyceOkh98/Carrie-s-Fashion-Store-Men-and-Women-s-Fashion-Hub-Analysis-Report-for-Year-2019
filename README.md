@@ -3,7 +3,8 @@ This repository is a project linked to the Clothing Industry that shows customer
 
 Carrie’s Fashion Store: Men and Women’s Fashion Hub Analysis Report for Year 2019
 
-<img width="554" height="207" alt="CF 1" src="https://github.com/user-attachments/assets/36c341ff-d6c9-4e3f-aca2-8289fda4adbd" />
+<img width="800" height="420" alt="CARRIE'S FASHION DASHBOARD" src="https://github.com/user-attachments/assets/6b8cea10-9031-4cb1-81d3-fb9029083e81" />
+
 
 Carrie’s Fashion Store Sales Report, 2019.
 
@@ -22,7 +23,7 @@ The next step taken for this analysis was to input the data in a pivot table to 
 
 The total purchase amount by gender is represented in a Pie-chart. The male gender purchased about $157,890 items while the female gender purchased $75,191 items.
 
-<img width="613" height="323" alt="CF 3" src="https://github.com/user-attachments/assets/b6608538-64cf-4769-9707-739bfdeb72b4" />
+<img width="791" height="188" alt="CF 2" src="https://github.com/user-attachments/assets/7ac4c7e9-71b2-4f20-a10a-dbfee52140a9" />
 
 The stacked bar chart above is the frequency of purchase by gender. By frequency level, customers who purchase Bi-Weekly tend to spend more in total than the others. This means, Bi-Weekly has the highest total spend.
 
